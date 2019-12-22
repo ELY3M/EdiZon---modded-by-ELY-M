@@ -41,7 +41,7 @@ A Homebrew save file dumper, injector and on-console editor for Horizon, the OS 
   2. Unpack the downloaded zip file, put the files on your Nintendo Switch's SD card and let the folders merge.
   3. Use a free open source CFW like [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) to launch the hbmenu and start EdiZon from there.
      1. If you want to use the cheat manager you absolutely have to use [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) as only their cheats are supported.
-	 2. grab cheats from [switchcheatsdb.com](https://switchcheatsdb.com)
+	 2. grab cheats from [switchcheatsdb.com](https://switchcheatsdb.com) - you need to rename the first folder in the cheat zip to atmosphere.  if you are using atmosphere 0.10.0 or above, you need to rename titles to contents inside the first folder.   	 
 
 # How to compile
 
